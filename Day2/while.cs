@@ -1,0 +1,15 @@
+using System;
+class W
+{
+    public static void ww()
+    {
+        int i=0;
+        while(i <= 5)
+        {
+             Console.WriteLine(i);
+            i++;
+           
+        }
+
+    }
+}

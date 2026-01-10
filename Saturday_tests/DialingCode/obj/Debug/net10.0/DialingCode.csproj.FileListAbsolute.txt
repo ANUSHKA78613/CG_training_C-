@@ -1,0 +1,14 @@
+E:\D\C#\DialingCode\obj\Debug\net10.0\DialingCode.GeneratedMSBuildEditorConfig.editorconfig
+E:\D\C#\DialingCode\obj\Debug\net10.0\DialingCode.AssemblyInfoInputs.cache
+E:\D\C#\DialingCode\obj\Debug\net10.0\DialingCode.AssemblyInfo.cs
+E:\D\C#\DialingCode\obj\Debug\net10.0\DialingCode.csproj.CoreCompileInputs.cache
+E:\D\C#\DialingCode\bin\Debug\net10.0\DialingCode.exe
+E:\D\C#\DialingCode\bin\Debug\net10.0\DialingCode.deps.json
+E:\D\C#\DialingCode\bin\Debug\net10.0\DialingCode.runtimeconfig.json
+E:\D\C#\DialingCode\bin\Debug\net10.0\DialingCode.dll
+E:\D\C#\DialingCode\bin\Debug\net10.0\DialingCode.pdb
+E:\D\C#\DialingCode\obj\Debug\net10.0\DialingCode.dll
+E:\D\C#\DialingCode\obj\Debug\net10.0\refint\DialingCode.dll
+E:\D\C#\DialingCode\obj\Debug\net10.0\DialingCode.pdb
+E:\D\C#\DialingCode\obj\Debug\net10.0\DialingCode.genruntimeconfig.cache
+E:\D\C#\DialingCode\obj\Debug\net10.0\ref\DialingCode.dll

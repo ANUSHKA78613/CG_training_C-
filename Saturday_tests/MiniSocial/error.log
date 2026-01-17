@@ -1,0 +1,32 @@
+16-01-2026 15:12:25
+The input string '' was not in a correct format.
+   at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Int32.Parse(String s)
+   at Program.ShowLoginMenu() in E:\D\C#\MiniSocial\Program.cs:line 66
+   at Program.Main() in E:\D\C#\MiniSocial\Program.cs:line 25
+--------------------
+16-01-2026 15:12:51
+Object reference not set to an instance of an object.
+   at Program.Login() in E:\D\C#\MiniSocial\Program.cs:line 103
+   at Program.ShowLoginMenu() in E:\D\C#\MiniSocial\Program.cs:line 71
+   at Program.Main() in E:\D\C#\MiniSocial\Program.cs:line 25
+--------------------
+16-01-2026 15:12:59
+The input string '' was not in a correct format.
+   at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Int32.Parse(String s)
+   at Program.ShowLoginMenu() in E:\D\C#\MiniSocial\Program.cs:line 66
+   at Program.Main() in E:\D\C#\MiniSocial\Program.cs:line 25
+--------------------
+16-01-2026 15:14:01
+Object reference not set to an instance of an object.
+   at Program.Login() in E:\D\C#\MiniSocial\Program.cs:line 103
+   at Program.ShowLoginMenu() in E:\D\C#\MiniSocial\Program.cs:line 71
+   at Program.Main() in E:\D\C#\MiniSocial\Program.cs:line 25
+--------------------
+16-01-2026 15:14:17
+Object reference not set to an instance of an object.
+   at Program.Login() in E:\D\C#\MiniSocial\Program.cs:line 103
+   at Program.ShowLoginMenu() in E:\D\C#\MiniSocial\Program.cs:line 71
+   at Program.Main() in E:\D\C#\MiniSocial\Program.cs:line 25
+--------------------

@@ -1,0 +1,14 @@
+E:\D\C#\MiniSocial\obj\Debug\net10.0\MiniSocial.GeneratedMSBuildEditorConfig.editorconfig
+E:\D\C#\MiniSocial\obj\Debug\net10.0\MiniSocial.AssemblyInfoInputs.cache
+E:\D\C#\MiniSocial\obj\Debug\net10.0\MiniSocial.AssemblyInfo.cs
+E:\D\C#\MiniSocial\obj\Debug\net10.0\MiniSocial.csproj.CoreCompileInputs.cache
+E:\D\C#\MiniSocial\bin\Debug\net10.0\MiniSocial.exe
+E:\D\C#\MiniSocial\bin\Debug\net10.0\MiniSocial.deps.json
+E:\D\C#\MiniSocial\bin\Debug\net10.0\MiniSocial.runtimeconfig.json
+E:\D\C#\MiniSocial\bin\Debug\net10.0\MiniSocial.dll
+E:\D\C#\MiniSocial\bin\Debug\net10.0\MiniSocial.pdb
+E:\D\C#\MiniSocial\obj\Debug\net10.0\MiniSocial.dll
+E:\D\C#\MiniSocial\obj\Debug\net10.0\refint\MiniSocial.dll
+E:\D\C#\MiniSocial\obj\Debug\net10.0\MiniSocial.pdb
+E:\D\C#\MiniSocial\obj\Debug\net10.0\MiniSocial.genruntimeconfig.cache
+E:\D\C#\MiniSocial\obj\Debug\net10.0\ref\MiniSocial.dll

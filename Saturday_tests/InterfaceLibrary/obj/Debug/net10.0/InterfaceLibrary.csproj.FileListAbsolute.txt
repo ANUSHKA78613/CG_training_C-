@@ -1,0 +1,11 @@
+E:\D\C#\InterfaceLibrary\bin\Debug\net10.0\InterfaceLibrary.deps.json
+E:\D\C#\InterfaceLibrary\bin\Debug\net10.0\InterfaceLibrary.dll
+E:\D\C#\InterfaceLibrary\bin\Debug\net10.0\InterfaceLibrary.pdb
+E:\D\C#\InterfaceLibrary\obj\Debug\net10.0\InterfaceLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\D\C#\InterfaceLibrary\obj\Debug\net10.0\InterfaceLibrary.AssemblyInfoInputs.cache
+E:\D\C#\InterfaceLibrary\obj\Debug\net10.0\InterfaceLibrary.AssemblyInfo.cs
+E:\D\C#\InterfaceLibrary\obj\Debug\net10.0\InterfaceLibrary.csproj.CoreCompileInputs.cache
+E:\D\C#\InterfaceLibrary\obj\Debug\net10.0\InterfaceLibrary.dll
+E:\D\C#\InterfaceLibrary\obj\Debug\net10.0\refint\InterfaceLibrary.dll
+E:\D\C#\InterfaceLibrary\obj\Debug\net10.0\InterfaceLibrary.pdb
+E:\D\C#\InterfaceLibrary\obj\Debug\net10.0\ref\InterfaceLibrary.dll

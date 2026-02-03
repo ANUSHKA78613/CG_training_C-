@@ -1,0 +1,14 @@
+E:\D\TOP_BRAIN\C#\obj\Debug\net10.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+E:\D\TOP_BRAIN\C#\obj\Debug\net10.0\C#.AssemblyInfoInputs.cache
+E:\D\TOP_BRAIN\C#\obj\Debug\net10.0\C#.AssemblyInfo.cs
+E:\D\TOP_BRAIN\C#\obj\Debug\net10.0\C#.csproj.CoreCompileInputs.cache
+E:\D\TOP_BRAIN\C#\bin\Debug\net10.0\C#.exe
+E:\D\TOP_BRAIN\C#\bin\Debug\net10.0\C#.deps.json
+E:\D\TOP_BRAIN\C#\bin\Debug\net10.0\C#.runtimeconfig.json
+E:\D\TOP_BRAIN\C#\bin\Debug\net10.0\C#.dll
+E:\D\TOP_BRAIN\C#\bin\Debug\net10.0\C#.pdb
+E:\D\TOP_BRAIN\C#\obj\Debug\net10.0\C#.dll
+E:\D\TOP_BRAIN\C#\obj\Debug\net10.0\refint\C#.dll
+E:\D\TOP_BRAIN\C#\obj\Debug\net10.0\C#.pdb
+E:\D\TOP_BRAIN\C#\obj\Debug\net10.0\C#.genruntimeconfig.cache
+E:\D\TOP_BRAIN\C#\obj\Debug\net10.0\ref\C#.dll

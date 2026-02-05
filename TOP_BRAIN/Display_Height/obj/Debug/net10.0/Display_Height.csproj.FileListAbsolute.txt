@@ -1,0 +1,14 @@
+E:\D\TOP_BRAIN\Display_Height\bin\Debug\net10.0\Display_Height.exe
+E:\D\TOP_BRAIN\Display_Height\bin\Debug\net10.0\Display_Height.deps.json
+E:\D\TOP_BRAIN\Display_Height\bin\Debug\net10.0\Display_Height.runtimeconfig.json
+E:\D\TOP_BRAIN\Display_Height\bin\Debug\net10.0\Display_Height.dll
+E:\D\TOP_BRAIN\Display_Height\bin\Debug\net10.0\Display_Height.pdb
+E:\D\TOP_BRAIN\Display_Height\obj\Debug\net10.0\Display_Height.GeneratedMSBuildEditorConfig.editorconfig
+E:\D\TOP_BRAIN\Display_Height\obj\Debug\net10.0\Display_Height.AssemblyInfoInputs.cache
+E:\D\TOP_BRAIN\Display_Height\obj\Debug\net10.0\Display_Height.AssemblyInfo.cs
+E:\D\TOP_BRAIN\Display_Height\obj\Debug\net10.0\Display_Height.csproj.CoreCompileInputs.cache
+E:\D\TOP_BRAIN\Display_Height\obj\Debug\net10.0\Display_Height.dll
+E:\D\TOP_BRAIN\Display_Height\obj\Debug\net10.0\refint\Display_Height.dll
+E:\D\TOP_BRAIN\Display_Height\obj\Debug\net10.0\Display_Height.pdb
+E:\D\TOP_BRAIN\Display_Height\obj\Debug\net10.0\Display_Height.genruntimeconfig.cache
+E:\D\TOP_BRAIN\Display_Height\obj\Debug\net10.0\ref\Display_Height.dll

@@ -1,0 +1,14 @@
+E:\D\UniverSity Course Registration System\UniverSity Course Registration System\bin\Debug\net8.0\UniverSity Course Registration System.exe
+E:\D\UniverSity Course Registration System\UniverSity Course Registration System\bin\Debug\net8.0\UniverSity Course Registration System.deps.json
+E:\D\UniverSity Course Registration System\UniverSity Course Registration System\bin\Debug\net8.0\UniverSity Course Registration System.runtimeconfig.json
+E:\D\UniverSity Course Registration System\UniverSity Course Registration System\bin\Debug\net8.0\UniverSity Course Registration System.dll
+E:\D\UniverSity Course Registration System\UniverSity Course Registration System\bin\Debug\net8.0\UniverSity Course Registration System.pdb
+E:\D\UniverSity Course Registration System\UniverSity Course Registration System\obj\Debug\net8.0\UniverSity Course Registration System.GeneratedMSBuildEditorConfig.editorconfig
+E:\D\UniverSity Course Registration System\UniverSity Course Registration System\obj\Debug\net8.0\UniverSity Course Registration System.AssemblyInfoInputs.cache
+E:\D\UniverSity Course Registration System\UniverSity Course Registration System\obj\Debug\net8.0\UniverSity Course Registration System.AssemblyInfo.cs
+E:\D\UniverSity Course Registration System\UniverSity Course Registration System\obj\Debug\net8.0\UniverSity Course Registration System.csproj.CoreCompileInputs.cache
+E:\D\UniverSity Course Registration System\UniverSity Course Registration System\obj\Debug\net8.0\UniverSity Course Registration System.dll
+E:\D\UniverSity Course Registration System\UniverSity Course Registration System\obj\Debug\net8.0\refint\UniverSity Course Registration System.dll
+E:\D\UniverSity Course Registration System\UniverSity Course Registration System\obj\Debug\net8.0\UniverSity Course Registration System.pdb
+E:\D\UniverSity Course Registration System\UniverSity Course Registration System\obj\Debug\net8.0\UniverSity Course Registration System.genruntimeconfig.cache
+E:\D\UniverSity Course Registration System\UniverSity Course Registration System\obj\Debug\net8.0\ref\UniverSity Course Registration System.dll
